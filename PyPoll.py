@@ -50,17 +50,7 @@ with open(file_to_load) as election_data:
         # Add a vote to that candidate's count. Need to bring out of the if statement and aligned with for loop to ensure script increments each candidate's vote count every time their name appears in the row.
         candidate_votes[candidate_name] += 1
 
-
-#1) Total number of votes cast. Print total votes:
-print(total_votes)
-
-# 2) A complete list of candidates who received votes. Print candidate list:
-print(candidate_options)
-
-##3) The total number of votes each candidate won. Print candidate vote dictionary: 
-print(candidate_votes)
-
-#4) The percentage of votes each candidate won. Determine percentage of votes for each candidate by looping through the counts.
+# The percentage of votes each candidate won. Determine percentage of votes for each candidate by looping through the counts.
 
 # Iterate through the candidate list
 for candidate_name in candidate_votes:
