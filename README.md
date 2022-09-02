@@ -30,7 +30,7 @@ Txt File Result:
 To view the txt file of results: https://github.com/ireneshin26/election_analysis/blob/main/Analysis/election_analysis.txt 
 
 ## **Election-Audit Results**
-* How many votes were cast in this congressional election? >> Total of 369,711 votes
+* How many votes were cast in this congressional election? >> Total of **369,711** votes
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct:
     * **Jefferson**: 38,855 votes (10.5% of the total votes)
     * **Denver**: 306,055 votes (82.8% of the total votes)
@@ -48,7 +48,10 @@ To view the txt file of results: https://github.com/ireneshin26/election_analysi
 
 ## Election-Audit Summary: 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections
+We can use the python script for additional information of any election provided that this info is collected as part of the original data file. Some examples are listed below:
+* The political party of voters can be used to figure out which political party had the greatest voter turnout.
+* The political party of candidates can be used to determine which political party received the most votes.
+* The age of the voters can be used to identify which age range had the greatest voter turnout. 
 
 *** 
 ## **Resources:**
