@@ -55,6 +55,6 @@ We can use the python script for additional information of any election provided
 
 *** 
 ## **Resources:**
-* Data Source File: election_results.csv
+* Data Source File: election_results.csv https://github.com/ireneshin26/election_analysis/blob/main/Resources/election_results.csv 
 * Software Python 3.9.12, Visual Studio Basic 1.70.2 
 
